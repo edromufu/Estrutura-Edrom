@@ -1,0 +1,24 @@
+Para corte:
+
+Frame Torso - Cabeca (x1)		TORSO
+Frame Torso - Inferior (x1)
+Frame Torso - Superior (x1)
+
+Frame Coxa (x4)				PERNA
+Frame Joelho (x4)
+Frame Quadril (x2)
+Conexão Pé (x2)
+Pé (x4)
+
+Frame Antebraço (x4)			BRAÇO
+Frame Ombro (x2)
+-------------------------------------------------
+
+Para imprimir:
+-------------------------------------------------
+Conector Motores Braço - 1 (x2)
+Conector Motores Braço - 2 (x2)
+Mão (x2)
+Chapa Componentes (x1)
+Conector cabeça
+-------------------------------------------------
